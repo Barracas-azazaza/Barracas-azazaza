@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/Barracas"><img src="https://api.daily.dev/devcards/408447fa24e14d689ae6101ae92613f7.png?r=rft" width="400" alt="Barracas's Dev Card"/></a>
+
 <!--
 **Barracas-azazaza/Barracas-azazaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
